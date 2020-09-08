@@ -1,18 +1,3 @@
-/* 
-Var
-// ifção de Declarações das variáveis 
-nome: caractere
-numero: real
-
-Inicio
-// ifção de Comandos, procedimento, funções, operadores, etc... 
-escreval("Digite o nome: ")
- leia(nome)
-escreval("Digite o número: ")
- leia(numero)
- 
-escreval(nome, " : ", numero)
-*/
 var nome, numero;
 
 nome = prompt("Digite o ifu nome: ")

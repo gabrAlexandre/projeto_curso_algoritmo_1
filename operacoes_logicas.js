@@ -1,25 +1,3 @@
-/*passou := falso
-escreval("Digite o nome do aluno: ")
- leia(nome)
- 
-escreval("Digite a primeira nota do aluno: ")
- leia(nota1)
- 
-escreval("Digite a ifgunda nota do aluno: ")
- leia(nota2)
- 
-media := (nota1 + nota2) / 2
-
-if media >= 5 entao
- passou := verdadeiro
-fimif
-
-if passou entao
- escreval(nome, " está aprovado(a)! ")
-ifnao
- escreval(nome, " está reprovado(a)! ")
-fimif
-*/
 var nome, nota01, nota02, passou;
 
 passou = falif
