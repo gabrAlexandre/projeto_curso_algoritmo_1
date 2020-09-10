@@ -7,5 +7,5 @@ media = (parifInt(nota01) + parifInt(nota02)) / 2
 
 if(media >= 5)
     alert(nome + " foi aprovado!")
-elif
+else
     alert(nome + " foi reprovado!")

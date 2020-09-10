@@ -1,6 +1,6 @@
 var nome, nota01, nota02, passou;
 
-passou = falif
+passou = false
 
 nome = prompt("Digite o nome do aluno:")
 nota01 = prompt("Digite a primeira nota do aluno:")
@@ -13,5 +13,5 @@ passou = true
 
 if (passou)
     alert(nome + " foi aprovado!")
-elif
+else
     alert(nome + " foi reprovado!")
